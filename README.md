@@ -1,4 +1,4 @@
-# Physics-Informed-Neural-Networks-PINNs-for-Magnetic-field-analysis
+# Generalizable DNN based multi-material Hysteresis Modelling
 
 This repo contains some of the work performed at [CompEM lab](https://www.compem.ece.mcgill.ca/index.html) - McGill University.
 
