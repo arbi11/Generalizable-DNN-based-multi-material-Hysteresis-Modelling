@@ -1,4 +1,4 @@
-# Generalizable-DNN-based-multi-material-Hysteresis-Modelling
+  # Generalizable-DNN-based-multi-material-Hysteresis-Modelling
 Collection of different data-driven algorithms for modeling the B-H characteristics of magnetic materials
 
 # Description
