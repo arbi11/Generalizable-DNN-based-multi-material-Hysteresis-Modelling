@@ -1,4 +1,7 @@
-# Generalizable DNN based multi-material Hysteresis Modelling
+# Generalizable-DNN-based-multi-material-Hysteresis-Modelling
+Collection of different data-driven algorithms for modeling the B-H characteristics of magnetic materials
+
+# Description
 
 This repo contains some of the work performed at [CompEM lab](https://www.compem.ece.mcgill.ca/index.html) - McGill University.
 Based on the following paper:
